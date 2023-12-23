@@ -1,0 +1,6 @@
+# Ignore word-processor files
+*.docx
+# Ignore word-processor lock files
+.~lock*
+# Ignore Python cache
+__pycache__/
